@@ -1,2 +1,4 @@
 # sentiment-analysis of public tweets 
 # Using Machine learning models to classify tweets into 3 classes of sentiments.
+labelledtweets.csv contains 22500 labelled tweets extracted from September 2016 to March 2017.
+The tweets were labelled by three human annotators showing significant Cohen's kappa coefficient of 0.73.
